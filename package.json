@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap_lotr",
+  "version": "1.0.0",
+  "description": "kennismaking met bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap",
+    "sass"
+  ],
+  "author": "Lucas Jansen",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "jquery-match-height": "^0.7.2"
+  }
+}
